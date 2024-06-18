@@ -5,6 +5,6 @@ The game is a music based game where the players will be placed in a tavern with
 I (Jonathan Ko) was responsible for handling the audio portion of the game.
 
 Responsilibies were <br/>
-*Maintaing open and constant communication with the Audio team by making sure both parties (Audio and Dev team) are aware of any needs from each othe
-*Updating any new changes to the music and sound effects from the audio team
+*Maintaing open and constant communication with the Audio team by making sure both parties (Audio and Dev team) are aware of any needs from each other <br/>
+*Updating any new changes to the music and sound effects from the audio team <br/>
 *Implementing the music and sound effects
